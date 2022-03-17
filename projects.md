@@ -1,3 +1,4 @@
+```
 def halfCircle(color):
     turtle.color('black', color)
     turtle.begin_fill()
@@ -45,3 +46,4 @@ circle('white', 35)
 
 #Hides Turtle
 turtle.hideturtle()
+```
