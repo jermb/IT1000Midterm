@@ -1,10 +1,6 @@
 # IT 1000 -- Midterm
 
-## Navigation:
-* [About Me](aboutme.md)
-* [Skills](skills.md)
-* [Projects]
-* Page 4
+**Navigation:** [About Me](aboutme.md) - [Skills](skills.md) - [Projects] - Page 4
 
 
 ## About this Repository
