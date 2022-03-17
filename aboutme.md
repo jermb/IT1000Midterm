@@ -6,4 +6,4 @@ My name is Jay Edson. I am a sophomore student majoring in Information Technolog
 
 
 This is my dog, Lucy:
-![Cute Dog]{lucy.jpg}
+![Cute Dog](lucy.jpg)
