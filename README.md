@@ -1,9 +1,9 @@
 # IT 1000 -- Midterm
 
 ## Navigation:
-* About Me
-* Projects
-* Page 3
+* [About Me](aboutme.md)
+* [Skills](skills.md)
+* [Projects]
 * Page 4
 
 
