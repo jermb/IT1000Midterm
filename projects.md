@@ -5,11 +5,12 @@
 ## Output
 
 This is an image I created using the Python Turtle Library. It is meant to be a Pokeball.
+
 ![Pokeball](img/pokeball.png)
 
 
 ## Python Code
-```
+```ruby
 def halfCircle(color):
     turtle.color('black', color)
     turtle.begin_fill()
