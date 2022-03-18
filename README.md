@@ -1,6 +1,6 @@
 # IT 1000 -- Midterm
 
-**Naviagation:** [About Me](aboutme.md) - [Skills](skills.md) - [Projects](projects.md) - [Other] 
+**Naviagation:** ~ [About Me](aboutme.md) ~ [Skills](skills.md) ~ [Projects](projects.md) ~ [Other] ~
 
 
 ## About this Repository
