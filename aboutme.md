@@ -1,4 +1,4 @@
-## IT1000 -- Midterm
+**Naviagation:** ~ [About Me](aboutme.md) ~ [Skills](skills.md) ~ [Projects](projects.md) ~ [Learning](learning.md) ~
 
 # About Me
 
