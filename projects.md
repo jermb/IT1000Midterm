@@ -1,4 +1,4 @@
-# Projects
+**Naviagation:** ~ [About Me](aboutme.md) ~ [Skills](skills.md) ~ [Projects](projects.md) ~ [Learning](learning.md) ~
 
 ## Python Turtle Project
 
