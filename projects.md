@@ -1,15 +1,15 @@
 # Projects
 
+## Python Turtle Project
 
-
-## Output
+### Output
 
 This is an image I created using the Python Turtle Library. It is meant to be a Pokeball.
 
 ![Pokeball](img/pokeball.png)
 
 
-## Python Code
+### Python Code
 ```ruby
 def halfCircle(color):
     turtle.color('black', color)
