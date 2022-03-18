@@ -1,4 +1,6 @@
-# Skills
+**Naviagation:** ~ [About Me](aboutme.md) ~ [Skills](skills.md) ~ [Projects](projects.md) ~ [Learning](learning.md) ~
+
+## Skills
 
 I have a couple years expereience working with HTML/CSS in both high school and college. I have also had the oppurtunity to work in a variety of different coding languages(listed below). I have the most experience working with _Javascript_, mainly in conjunction with HTML/CSS. At the moment _Java_ is the language I got to when working on personal projects. 
  
